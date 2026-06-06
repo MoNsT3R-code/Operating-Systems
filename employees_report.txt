@@ -1,0 +1,39 @@
+=================================
+        EMPLOYEE REPORT          
+=================================
+Employee 1:
+Name: Ali
+Monthly Salary: 2550.00
+Years Employed: 2
+Annual Salary: 30600.00
+---------------------------------
+Employee 2:
+Name: Ahmed
+Monthly Salary: 5555.00
+Years Employed: 1
+Annual Salary: 66660.00
+---------------------------------
+Employee 3:
+Name: Asad
+Monthly Salary: 0.50
+Years Employed: 1200
+Annual Salary: 6.00
+---------------------------------
+Employee 4:
+Name: Abdul
+Monthly Salary: 85.00
+Years Employed: 2121
+Annual Salary: 1020.00
+---------------------------------
+Employee 5:
+Name: Sara
+Monthly Salary: 5200.00
+Years Employed: 1
+Annual Salary: 62400.00
+---------------------------------
+Employee 6:
+Name: Ayesha
+Monthly Salary: 5200.00
+Years Employed: 0
+Annual Salary: 62400.00
+---------------------------------

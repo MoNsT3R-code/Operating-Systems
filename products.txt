@@ -1,0 +1,10 @@
+Product 1
+Name: Box
+Price: 2500.00
+Quantity: 80
+
+Product 2
+Name: Pencil
+Price: 15.00
+Quantity: 5800
+
